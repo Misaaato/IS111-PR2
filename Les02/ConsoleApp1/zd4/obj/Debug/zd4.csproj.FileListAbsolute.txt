@@ -1,0 +1,7 @@
+C:\Users\install.NMT.000\source\repos\ConsoleApp1\zd4\bin\Debug\zd4.exe.config
+C:\Users\install.NMT.000\source\repos\ConsoleApp1\zd4\bin\Debug\zd4.exe
+C:\Users\install.NMT.000\source\repos\ConsoleApp1\zd4\bin\Debug\zd4.pdb
+C:\Users\install.NMT.000\source\repos\ConsoleApp1\zd4\obj\Debug\zd4.csprojAssemblyReference.cache
+C:\Users\install.NMT.000\source\repos\ConsoleApp1\zd4\obj\Debug\zd4.csproj.CoreCompileInputs.cache
+C:\Users\install.NMT.000\source\repos\ConsoleApp1\zd4\obj\Debug\zd4.exe
+C:\Users\install.NMT.000\source\repos\ConsoleApp1\zd4\obj\Debug\zd4.pdb
